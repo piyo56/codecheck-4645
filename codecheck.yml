@@ -1,0 +1,5 @@
+build:
+  - scalac Clock.scala
+env:
+  APP_COMMAND: scala Clock
+test: mocha

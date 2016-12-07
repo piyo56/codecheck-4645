@@ -1,0 +1,13 @@
+[
+  { "input": "18 10", "output": "rrrrr" },
+  { "input": "0 90", "output": "rrrrr" },
+  { "input": "31 65", "output": "rrrrr" },
+  { "input": "3 59", "output": "rrrrr" },
+  { "input": "3 9", "output": "rrrrr" },
+  { "input": "6 -12", "output": "rrrrr" },
+  { "input": "-3 39", "output": "rrrrr" },
+  { "input": "-3 -51", "output": "rrrrr" },
+  { "input": "12 20", "output": "rrrrr" },
+  { "input": "0 60", "output": "rrrrr" },
+  { "input": "12 60", "output": "rrrrr" }
+]
