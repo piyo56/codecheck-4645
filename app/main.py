@@ -60,6 +60,7 @@ def calc_flags(num):
 def main(argv):
     if not is_valid(sys.argv):
       print("rrrrr")
+      return
 
     hour   = int(sys.argv[1])
     minute = int(sys.argv[2])
